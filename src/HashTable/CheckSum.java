@@ -1,7 +1,7 @@
 package HashTable;
 
 import java.util.HashMap;
-
+//The time complexity is O(n)
 public class CheckSum {
     public static int[] findSum(int[] arr, int n)
     {

@@ -1,5 +1,5 @@
 package Sorting;
-
+//The best case complexity is nlogn
 public class QuickSort {
     public static int partion(int arr[],int lb,int ub){
         int pivot = arr[lb];
